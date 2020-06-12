@@ -1,5 +1,10 @@
 # Social Distance Monitoring 
 
+## Team Members:
+1. Likhil Kumar Rachuri(lkr46)
+2. Madhu Bandru(mb4236)
+3. Vuthej Krishna Reddy(vv334)
+
 ## Objective:
 
 The objective of the project is to develop algorithm to monitor the social distancing for a given recorded video or live feed as input.
