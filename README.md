@@ -25,7 +25,7 @@ We have developed two algorithm to detect the social distancing for provided inp
 
 During installation if you ran into any problem and face any below errors, try below said methods.
 
-1) !pip install pycocotools
+1) <code>!pip install pycocotools</code>
 
 if this errors out with "ERROR: Command errored out with exit status 1:" or 
 "error: Microsoft Visual C++ 14.0 is required. Get it with "Build Tools for Visual Studio": https://visualstudio.microsoft.com/downloads/"
