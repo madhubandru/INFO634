@@ -11,6 +11,8 @@ We have developed two algorithm to detect the social distancing for provided inp
 1. HOG - Histogram of Oriented Gradients
 2. DNN - Deep Convolution Neural Network
 
+More details about both alogorithms is explained in report.
+
 ## Tools and Packages:
 
 ### Language:
