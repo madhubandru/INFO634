@@ -33,10 +33,10 @@ if this errors out with "ERROR: Command errored out with exit status 1:" or
 try downloading: https://visualstudio.microsoft.com/downloads/
  
 
-2) pip install tensorflow-object-detection-api
+2) <code>pip install tensorflow-object-detection-api</code>
 ERROR: readme-renderer 26.0 has requirement bleach>=2.1.0, but you'll have bleach 1.5.0 which is incompatible.
 
-try installing: pip install bleach -U --bleach==2.1.0
+try installing: <code>pip install bleach -U --bleach==2.1.0</code>
 
 
 ## How to execute algorithms
