@@ -47,7 +47,7 @@ try installing: <code>pip install bleach -U --bleach==2.1.0</code>
 
 
 ## How to execute algorithms
-Run the python file provided. In case of any change in the input video, update the path of the input video and perform execution of python script.
+Run the .ipynb notebook provided. In case of any change in the input video, update the path of the input video in the final cell of the notebook and perform execution of complete .ipynb notebook by restarting the kernel.
 
 ## Sample input and output
 We have provided both input and output(processed) videos for reference.
