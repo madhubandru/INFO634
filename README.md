@@ -48,11 +48,17 @@ try installing: <code>pip install bleach -U --bleach==2.1.0</code>
 3) Compile protobuf and install object_detection package.
 
 %%bash
+
 cd models/research/
+
 protoc object_detection/protos/*.proto --python_out=.
 
+
+
 %%bash
+
 cd models/research
+
 pip install .
 
 
