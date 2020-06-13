@@ -45,6 +45,16 @@ ERROR: readme-renderer 26.0 has requirement bleach>=2.1.0, but you'll have bleac
 
 try installing: <code>pip install bleach -U --bleach==2.1.0</code>
 
+3) Compile protobuf and install object_detection package.
+
+%%bash
+cd models/research/
+protoc object_detection/protos/*.proto --python_out=.
+
+%%bash
+cd models/research
+pip install .
+
 
 ## How to execute algorithms
 Run the .ipynb notebook provided. In case of any change in the input video, update the path of the input video in the final cell of the notebook and perform execution of complete .ipynb notebook by restarting the kernel.
