@@ -1,5 +1,7 @@
 # Social Distance Monitoring 
 
+## Subject: INFO634-002-Data_Mining
+
 ## Team Members:
 1. Likhil Kumar Rachuri(lkr46)
 2. Madhu Bandru(mb4236)
